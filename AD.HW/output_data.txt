@@ -1,0 +1,5 @@
+The optimal distribution of books to minimize the maximum workload is:
+Staff 1: 1500 pages ( 100 200 300 400 500 )
+Staff 2: 1300 pages ( 600 700 )
+Staff 3: 1700 pages ( 800 900 )
+The optimal distribution of books to minimize the maximum workload is: 1700 pages
